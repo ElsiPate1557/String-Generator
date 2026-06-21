@@ -1,16 +1,50 @@
-# React + Vite
+Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed as part of the Front-End Development Internship conducted by QSkill and SR India Pvt. Ltd.
 
-Currently, two official plugins are available:
+The main purpose  of this project was to build a responsive Password Generator application using React and demonstratesthe use of useState, useCallback, useEffect.
+It generated random strings which depends on the criteria's choosen by the user .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Features
 
-## Expanding the ESLint configuration
+- Generate secure random passwords
+- Adjustable password length
+- Uppercase letter selection
+- Lowercase letter selection
+- Number selection
+- Symbol selection
+- Password strength indicator
+- Copy password to clipboard
+- Responsive and modern user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used
+
+- React
+- JavaScript (ES6+)
+- CSS3
+- Vite
+
+Screenshot
+
+
+
+
+
+
+Learning Outcomes
+
+Through this project, the following concepts were practiced:
+
+- React Hooks (useState, useEffect, useCallback)
+- Event Handling
+- State Management
+- Component Styling
+- Responsive UI Design
+
+
+Author
+
+Elsi C Pate
+
