@@ -1,4 +1,4 @@
-Password Generator
+##Password Generator
 
 This project was developed as part of the Front-End Development Internship conducted by QSkill and SR India Pvt. Ltd.
 
@@ -26,8 +26,9 @@ Technologies Used
 - CSS3
 - Vite
 
-Screenshot
-
+##Screenshot
+![Password Genereator]
+(password-generator.png)
 
 
 
