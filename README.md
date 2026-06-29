@@ -35,11 +35,7 @@ It generated random strings which depends on the criteria's choosen by the user 
 ![Password Genereator](password-generator.png)
 
 
-
-
-
 ## Learning Outcomes
-
 
 - Learned how to use React hooks such as "useState", "useEffect", and "useCallback".
 - Learned how to generate random passwords based on user-selected conditions such as uppercase letters, numbers, and symbols.
