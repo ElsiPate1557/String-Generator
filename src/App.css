@@ -115,7 +115,7 @@ input[type="range"]{
   background: #560BAD;
   color: #ffffff;
   cursor: pointer;
-  font_weight: 600%;
+  font-weight: 600;
 }
 
 input[type="checkbox"]{
@@ -135,5 +135,5 @@ accent-color: #560BAD;
   border-radius: 12px;
   background: #e1d2e9;
   text-align: center;
-  font weight: bold;
+  font-weight: bold;
 }
