@@ -1,8 +1,12 @@
-# Password Generator
+# Random String Generator using useState, useCallback & useEffect
+
+🌐 Live Demo:https://string-generator-phi.vercel.app
+
+## Password Generator
 
 This project was developed as part of the Front-End Development Internship conducted by QSkill and SR India Pvt. Ltd.
 
-The main purpose  of this project was to build a responsive Password Generator application using React and demonstratesthe use of useState, useCallback, useEffect.
+The main purpose  of this project was to build a responsive Password Generator application using React and demonstrates the use of useState, useCallback, useEffect.
 It generated random strings which depends on the criteria's choosen by the user .
 
 
@@ -22,8 +26,8 @@ It generated random strings which depends on the criteria's choosen by the user 
 ## Technologies Used
 
 - React
-- JavaScript (ES6+)
-- CSS3
+- JavaScript 
+- CSS
 - Vite
 
 ## Screenshot
@@ -36,16 +40,13 @@ It generated random strings which depends on the criteria's choosen by the user 
 
 ## Learning Outcomes
 
-Through this project, the following concepts were practiced:
 
-- React Hooks (useState, useEffect, useCallback)
-- Event Handling
-- State Management
-- Component Styling
-- Responsive UI Design
-
+- Learned how to use React hooks such as "useState", "useEffect", and "useCallback".
+- Learned how to generate random passwords based on user-selected conditions such as uppercase letters, numbers, and symbols.
+- Gained experience in designing a responsive and user-friendly interface using CSS.
+- Improved my problem-solving and debugging skills while implementing features like password copying and strength checking.
 
 ### Author
 
 Elsi C Pate
-
+BTech Computer Science
